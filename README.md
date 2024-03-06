@@ -1,8 +1,3 @@
-# Linea
-
-I built a fun Excalidraw clone using React and TypeScript! It features the charmingly imperfect hand-drawn look of
-Rough.js, offering a unique visual experience for diagramming and brainstorming.
-
 ## Technologies
 
 - `Vite`
@@ -12,7 +7,6 @@ Rough.js, offering a unique visual experience for diagramming and brainstorming.
 - `CSS`
 - `Vitest`
 - `Cypress`
-- `Testing Library`
 
 ### Keyboard Shortcuts:
 
