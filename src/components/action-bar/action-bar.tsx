@@ -1,10 +1,9 @@
-import { Tools, ToolsType } from "../../../../../Downloads/NinjaSketch-main/NinjaSketch-main/src/types.ts";
-
 import { LuMousePointer, LuPencil } from "react-icons/lu";
 import { FiSquare } from "react-icons/fi";
 import { IoText } from "react-icons/io5";
 import { PiMinusBold } from "react-icons/pi";
 import "./action-bar-style.css";
+import { Tools, ToolsType } from "../../types.ts";
 
 type ActionBarProps = {
     tool: ToolsType;
